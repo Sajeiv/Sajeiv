@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sajeiv" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="sajeiv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sajeiv" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="sajeiv" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/sajeiv" target="blank"><img align="center" src="" alt="sajeiv" height="30" width="40" /></a> -->
 </p>
