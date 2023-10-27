@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [insert link here](insert link here)
 
-- 📫 How to reach me **sravic2@uwo.ca**
+- 📫 How to reach me: **sravic2@uwo.ca**
 
 - 📄 Know about my experiences [insert link here](insert link here)
 
-- ⚡ Fun fact **My top 3 tv shows are SUITS, OFFICE, and OZARK**
+- ⚡ Top 3 Shows: **SUITS OFFICE OZARK**
