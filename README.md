@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello 👋, I'm Sajeiv</h1>
 <h3 align="center">Willing to learn whatever it takes to succeed</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajeiv&label=Profile%20views&color=0e75b6&style=flat" alt="sajeiv" /> </p>
