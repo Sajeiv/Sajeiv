@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajeiv&label=Profile%20views&color=0e75b6&style=flat" alt="sajeiv" /> </p>
 
-- 🔭 I’m currently working on the **FixUp Workout Tracker App with ChatGpt Integration**
+- 🔭 I’m currently working on a **Workout Tracker App with ChatGpt Integration** named **FixUp**
 
 - 🌱 I’m currently learning to develop using **React Native, Django Rest Framework and Postman**
 
