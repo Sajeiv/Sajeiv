@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning to develop using **React Native, Django Rest Framework and Postman**
 
-- 👨‍💻 All of my projects are available at [insert link here]
+<!--- 👨‍💻 All of my projects are available at [insert link here] -->
 
 - 📫 How to reach me: **sravic2@uwo.ca**
 
-- 📄 Know about my experiences [insert link here]
+<!--- 📄 Know about my experiences [insert link here]-->
 
 - ⚡ Top 3 Shows: **SUITS OFFICE OZARK**
 
