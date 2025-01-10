@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!--- 📄 Know about my experiences [insert link here]-->
 
-- ⚡ Top 3 Shows: **SUITS OFFICE OZARK**
+- ⚡ Top 3 Shows: **SUITS, OFFICE, OZARK**
 
 <!--<h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left"> -->
